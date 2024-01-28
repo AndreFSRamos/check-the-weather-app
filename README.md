@@ -8,4 +8,8 @@
 ### - Execultar o projeto em um IDE (VScode ou Android Studio) com o comando "flutter run".
 ### - O projetos pode ser excultado nas plataformas Android, IOS, Windows, Linux e Web.
 
+## Ilustração
+![image](https://github.com/AndreFSRamos/check-the-weather-app/assets/88846666/3557db79-f347-42ae-8c8c-11da0a1d9b84)
+
+
 
