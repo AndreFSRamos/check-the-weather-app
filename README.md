@@ -1,5 +1,5 @@
 # check-the-weather-app
-##App flutter para consumo de API da HG Brasil.
+## App flutter para consumo de API da HG Brasil.
 ### - API consumida https://api.hgbrasil.com/weather?key=SUA-CHAVE&city_name=nome_da_cidade
 
 ## Como rodar o projeto
